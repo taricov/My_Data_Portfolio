@@ -1,8 +1,7 @@
-##  Tariv  Ov
 
-### This is my portfolio
+## Machine Learning Projects:
 
-1.[Proect 1: DataAnalysis__Sales Analysis:](https://github.com)
+1.[Proect 1:Titanic Survivors Classifier (Classification model):](https://github.com/taricov/titanic_survivors_classificier)
 
 __Here's some Details__
 *image*
@@ -14,7 +13,7 @@ __Here's some Details__
 4.[Proect 4: DataAnalysis__Sales Analysis:](https://github.com)
 
 
-* **Data-Based Web Apps**:
+## Data-Based Web Apps:
 
     1.[ STREAMLIT: Stock historical data timeline:](https://github.com/taricov/web_app_stocks)
 
