@@ -1,7 +1,7 @@
 
 ## Machine Learning Projects:
 
-1.[ Project 1: Titanic Survivors **Classifier**:](https://github.com/taricov/titanic_survivors_classificier)
+## 1.[ Project 1: Titanic Survivors **Classifier**:](https://github.com/taricov/titanic_survivors_classificier)
 
 __Here's some Details__
 *image*
