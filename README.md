@@ -15,5 +15,5 @@ __Here's some Details__
 
 ## Data-Based Web Apps:
 
-   1.[ STREAMLIT: Stock historical data timeline:](https://github.com/taricov/web_app_stocks)
-   2.[ DASH: Stock historical data timeline:](https://github.com/taricov/web_app_stocks)
+1.[ STREAMLIT: Stock historical data timeline:](https://github.com/taricov/web_app_stocks)
+2.[ DASH: Stock historical data timeline:](https://github.com/taricov/web_app_stocks)
