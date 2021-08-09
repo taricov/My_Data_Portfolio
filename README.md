@@ -16,4 +16,5 @@ __Here's some Details__
 
 * Data-Based Web Apps:
 
-1.[Streamlit: Stock historical data timeline:](https://github.com/taricov/web_app_stocks)
+    1.[Streamlit: Stock historical data timeline:](https://github.com/taricov/web_app_stocks)
+    2.[Streamlit: Stock historical data timeline:](https://github.com/taricov/web_app_stocks)
