@@ -1,4 +1,4 @@
-#About:
+# About:
 I am an entry-level ML engineer coming from data analysis and finance background to join the community of the ML.
 
 # My Main Skills:
@@ -14,8 +14,8 @@ I am an entry-level ML engineer coming from data analysis and finance background
   * PowerBI
   * Advanced Excel
  
-#Certitfication:
-  * Google Data Analytics Certification
+# Certitfication:
+  * [Google Data Analytics Certification]()
   * FMVA
   * Predictive Machine Learning - LinkedIn
 
