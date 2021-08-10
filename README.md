@@ -1,3 +1,24 @@
+#About:
+I am an entry-level ML engineer coming from data analysis and finance background to join the community of the ML.
+
+# My Main Skills:
+  * Python         
+  * R
+  * SPSS
+  * SQL
+  * Java
+  * JavaScript
+  * CSS/Sass
+  * Observable
+  * Tableau
+  * PowerBI
+  * Advanced Excel
+ 
+#Certitfication:
+  * Google Data Analytics Certification
+  * FMVA
+  * Predictive Machine Learning - LinkedIn
+
 
 # Machine Learning Projects:
 
