@@ -33,15 +33,11 @@ It's more than common to find this infamous dataset about Titanic disaster in an
 Details__
 *imagecarry
 
-2?!!' or maybe '.[Proect 2: DataAnalysis__Sales Analysis:](https://github.com)
-
-3.[Proect 3: DataAnalysis__Sales Analysis:](https://github.com)
-
-4.[Proect 4: DataAnalysis__Sales Analysis:](https://github.com)
 
 
 # Data-Based Web Apps:
 
-### 1.[ STREAMLIT: Stock historical data timeline:](https://github.com/taricov/web_app_stocks)
-
+### 1.[ STREAMLIT: Stock historical data timeline:](https://github.com/taricov/web_app_stocks)<br/>
 ### 2.[ DASH: Stock historical data timeline:](https://github.com/taricov/web_app_stocks)
+
+### 3.[ STREAMLIT: NFL Rushing web-app:](https://github.com/taricov/web_app_stocks)
