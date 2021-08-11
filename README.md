@@ -37,6 +37,6 @@ Details__
 
 # Data-Based Web Apps:
 
-  ### 1.[ STREAMLIT: Stock historical data timeline](https://github.com/taricov/web_app_stocks)<br/>
-  ### 2.[ DASH: Stock historical data timeline](https://github.com/taricov/web_app_stocks)
-  ### 3.[ STREAMLIT: NFL Rushing web-app](https://github.com/taricov/NFL_web-app)
+### 1.[ STREAMLIT: Stock historical data timeline](https://github.com/taricov/web_app_stocks)
+### 2.[ DASH: Stock historical data timeline](https://github.com/taricov/web_app_stocks)
+### 3.[ STREAMLIT: NFL Rushing web-app](https://github.com/taricov/NFL_web-app)
