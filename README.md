@@ -37,8 +37,8 @@ Details__
 
 # Data-Based Web Apps:
 
-### 1.[ STREAMLIT: Stock Historical Data](https://github.com/taricov/web_app_stocks)
-### 2.[ R Shiny: ](https://github.com/taricov/NFL_web-app)
+### 1.[ STREAMLIT: Stock Historical Data](https://github.com/taricov/Stock_Web_App)
+### 2.[ R Shiny: ]()
 ### 3.[ STREAMLIT: NFL Rushing Web App](https://github.com/taricov/NFL_web-app)
-### 4.[ DASH: Stock Closing Price Timeline](https://github.com/taricov/web_app_stocks)
-### 5.[ STREAMLIT: Cryptocurrency Web App](https://github.com/taricov/NFL_web-app)
+### 4.[ DASH: Stock Closing Price Timeline](https://github.com/taricov/DASH_Interactive_Stocks_Web_App)
+### 5.[ STREAMLIT: Cryptocurrency Web App](https://github.com/taricov/Cryptocurrency_App)
