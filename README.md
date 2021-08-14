@@ -41,8 +41,6 @@ It's more than common to find this infamous dataset about Titanic disaster in an
 Details__
 *imagecarry
 
----
-
 # Data-Based Web Apps:
 
 ### 1.[ STREAMLIT: Stock Historical Data](https://github.com/taricov/Stock_Web_App)
@@ -51,9 +49,7 @@ Details__
 ### 4.[ DASH: Stock Closing Price Timeline](https://github.com/taricov/DASH_Interactive_Stocks_Web_App)
 ### 5.[ STREAMLIT: Cryptocurrency Web App](https://github.com/taricov/Cryptocurrency_App)
 
----
-
-# 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
@@ -67,8 +63,7 @@ Details__
 ## Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Medium]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
