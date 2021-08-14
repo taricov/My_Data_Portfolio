@@ -1,5 +1,12 @@
 # About:
-I am an entry-level ML engineer coming from data analysis and finance background to join the community of the ML.
+
+## I am an entry-level ML engineer coming from data analysis and finance background to join the community of the ML.
+
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals Are To: 5 travels, 20 books, speak Russian
+- ⚡ Fun fact: I love to draw, listen to music and play guitar
 
 # My Main Skills:
   * [Python]()         
@@ -19,6 +26,7 @@ I am an entry-level ML engineer coming from data analysis and finance background
   * FMVA
   * Predictive Machine Learning - LinkedIn
 
+---
 
 # Machine Learning Projects:
 
@@ -33,7 +41,7 @@ It's more than common to find this infamous dataset about Titanic disaster in an
 Details__
 *imagecarry
 
-
+---
 
 # Data-Based Web Apps:
 
@@ -42,3 +50,31 @@ Details__
 ### 3.[ STREAMLIT: NFL Rushing Web App](https://github.com/taricov/NFL_web-app)
 ### 4.[ DASH: Stock Closing Price Timeline](https://github.com/taricov/DASH_Interactive_Stocks_Web_App)
 ### 5.[ STREAMLIT: Cryptocurrency Web App](https://github.com/taricov/Cryptocurrency_App)
+
+---
+
+# 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+<!-- BLOG-POST-LIST:END -->
+
+
+## Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[website]: https://codeSTACKr.com
+[Medium]: https://twitter.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+
