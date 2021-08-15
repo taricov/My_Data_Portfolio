@@ -17,8 +17,8 @@
   * [JavaScript](https://github.com/taricov?tab=repositories)
   * [CSS/Sass](https://codepen.io/taricov/pens/public?cursor=ZD0xJm89MCZwPTEmdj01MDM4MDQ5Mg==)
   * [Observable]()
-  * [Tableau]()
-  * [PowerBI]()
+  * [Tableau](https://medium.com/geekculture/attrition-why-should-you-track-it-with-a-dashboard-that-stuns-2e50663f0e21?source=user_profile---------1----------------------------)
+  * [PowerBI](https://app.powerbi.com/groups/me/reports/cc818e03-c473-4d97-994c-be7c8ac778a6?ctid=0b6fac1e-c1ac-4214-bd79-eb9321e7de42&pbi_source=linkShare)
   * [Advanced Excel]()
   
  
@@ -42,6 +42,13 @@ It's more than common to find this infamous dataset about Titanic disaster in an
 Details__
 *imagecarry
 
+
+### .[ Python: Historical Sales Data Analysis](https://www.kaggle.com/taricov/python-sales-sheet-analysis)
+
+Keywords: [Classfication, ML, Decision Tree, Logistic Regression, Gradiant Boost, MLP, SVC]()
+
+*Used libs: Pandas, Numpy, Sklearn, Seaborn, Statsmodels*
+
 # Data-Based Web Apps:
 
 ### 1.[ STREAMLIT: Stock Historical Data](https://github.com/taricov/Stock_Web_App)
@@ -53,11 +60,11 @@ Details__
 # Others:
 
 ### 1.[ Tableau: Retail Analysis - Walmart](https://public.tableau.com/app/profile/taric.ov/viz/RetailAnalysis-Walmart/RetailAnalysiswithWalmartData)
-### .[ Tableau: ]()
-### .[ Tableau: ]()
-### .[ Tableau: ]()
+### .[ SQL: Joining Tables From The Indian League Dataset](https://www.kaggle.com/taricov/sql-snippets-tabular-data-joining-value-mapping)
+### .[ SQL: Bike Share Dataset](https://www.kaggle.com/taricov/sql-snippets-bike-share-dataset)
+### .[ PowerBI: Financial Model/Senario Analysis](https://app.powerbi.com/groups/me/reports/cc818e03-c473-4d97-994c-be7c8ac778a6?ctid=0b6fac1e-c1ac-4214-bd79-eb9321e7de42&pbi_source=linkShare)
 
-## 📕 Latest Blog Posts
+## 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
@@ -76,7 +83,7 @@ Details__
 [<img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[website]: https://codeSTACKr.com
-[Medium]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: 
+[Medium]: https://medium.com/@taric-ov
+[instagram]: https://www.instagram.com/taric.ov/
+[linkedin]: https://www.linkedin.com/in/taricov/
