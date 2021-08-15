@@ -9,13 +9,13 @@
 - ⚡ Fun fact: I love to draw, listen to music and play guitar
 
 # Languages & Skills:
-  * [Python]()         
+  * [Python](https://github.com/taricov?tab=repositories)         
   * [R]()
   * [SPSS]()
-  * [SQL]()
-  * [Java]()
-  * [JavaScript]()
-  * [CSS/Sass]()
+  * [SQL](https://www.kaggle.com/taricov/sql-snippets-bike-share-dataset)
+  * [Java](https://github.com/taricov?tab=repositories)
+  * [JavaScript](https://github.com/taricov?tab=repositories)
+  * [CSS/Sass](https://codepen.io/taricov/pens/public?cursor=ZD0xJm89MCZwPTEmdj01MDM4MDQ5Mg==)
   * [Observable]()
   * [Tableau]()
   * [PowerBI]()
