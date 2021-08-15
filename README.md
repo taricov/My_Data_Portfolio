@@ -84,6 +84,6 @@ Keywords: [Classfication, ML, Decision Tree, Logistic Regression, Gradiant Boost
 
 
 [website]: https://codeSTACKr.com
-[Medium]: https://medium.com/@taric-ov
+[Medium]: https://taric-ov.medium.com/
 [instagram]: https://www.instagram.com/taric.ov/
 [linkedin]: https://www.linkedin.com/in/taricov/
