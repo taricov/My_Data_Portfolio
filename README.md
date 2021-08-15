@@ -1,6 +1,6 @@
 # About:
 
-## I am an entry-level ML engineer coming from data analysis and finance background to join the community of the ML.
+- I am an entry-level ML engineer coming from data analysis and finance background to join the community of the ML.
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -22,12 +22,11 @@
   * [Advanced Excel]()
   
  
-# Certitfication:
-  * Google Data Analytics Certification
-  * FMVA
-  * Predictive Machine Learning - LinkedIn
+# Certitfication: [visit](https://www.linkedin.com/in/taricov/)
+  - Google Data Analytics Certificate
+  - FMVA
+  - Predictive Machine Learning.
 
----
 
 # Machine Learning Projects:
 
