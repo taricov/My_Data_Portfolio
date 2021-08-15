@@ -13,4 +13,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog_post@master
         with: 
-          feed_list: "https://taric-ov.medium.com/"
+          feed_list:  "https://dev.to/feed/taricov, https://taric-ov.medium.com/"
