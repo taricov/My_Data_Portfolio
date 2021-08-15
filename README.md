@@ -37,15 +37,12 @@
 
 > It's more than common to find this infamous dataset about Titanic disaster in an ML portofolios, but I wanted this project to be more than basic, studying classification models and understanding how to tweak their vital hyperparameters, however I had a further big question to answer. **How likely could other factors determine someone's death other than the main threat to your life?** 'cause all Titanic passengers were on the same ship, exposed to the same situation, likely to all die or all survive. the interesting part is that some of them died and some survived, so the life-threatening situation wasn't enough to determine one's disteny, there must be other determinants that need investigation to understand some other questions that could seem crazy or even ironic, such as 'Could your family size carry your death verdict?!!' or maybe 'Could there be a relation between your dialy protien intake percentage to your survival percentage?!', most ironically "Could nature destined your inevitable death when you first born as a male/female?!" and others.
 
-Details__
-*imagecarry
 
+### 3.[ Python: Historical Sales Data Analysis](https://www.kaggle.com/taricov/python-sales-sheet-analysis)
+   - Keywords: [Data Analysis, EDA, Data Visualization, Business Intelligence]()
+   - *Used libs: Pandas, Numpy, Seaborn, Matplotlib*
 
-### .[ Python: Historical Sales Data Analysis](https://www.kaggle.com/taricov/python-sales-sheet-analysis)
-
-Keywords: [Classfication, ML, Decision Tree, Logistic Regression, Gradiant Boost, MLP, SVC]()
-
-*Used libs: Pandas, Numpy, Sklearn, Seaborn, Statsmodels*
+> 
 
 # Data-Based Web Apps:
 
