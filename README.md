@@ -1,12 +1,11 @@
 # About:
 
 - I am an entry-level ML engineer coming from data analysis and finance background to join the community of the ML.
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals Are To: 5 travels, 20 books, speak Russian
-- ⚡ Fun fact: I love to draw, listen to music and play guitar
+  - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+  - 🌱 I’m currently learning everything 🤣
+  - 👯 I’m looking to collaborate with other content creators
+  - 🥅 2021 Goals Are To: 5 travels, 20 books, speak Russian
+  - ⚡ Fun fact: I love to draw, listen to music and play guitar
 
 # Languages & Skills:
   * [Python](https://github.com/taricov?tab=repositories)         
@@ -71,9 +70,9 @@
 
 ## Contact Me:
 
-[<img align="left" alt="My Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="My Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][Medium]
-[<img align="left" alt="My LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="My Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] &emsp;
+[<img align="left" alt="My Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][Medium] &emsp;
+[<img align="left" alt="My LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] &emsp;
 [<img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
