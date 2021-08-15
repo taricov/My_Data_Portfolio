@@ -50,6 +50,13 @@ Details__
 ### 4.[ DASH: Stock Closing Price Timeline](https://github.com/taricov/DASH_Interactive_Stocks_Web_App)
 ### 5.[ STREAMLIT: Cryptocurrency Web App](https://github.com/taricov/Cryptocurrency_App)
 
+# Others:
+
+### 1.[ Tableau: Retail Analysis - Walmart](https://public.tableau.com/app/profile/taric.ov/viz/RetailAnalysis-Walmart/RetailAnalysiswithWalmartData)
+### .[ Tableau: ]()
+### .[ Tableau: ]()
+### .[ Tableau: ]()
+
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -61,12 +68,12 @@ Details__
 <!-- BLOG-POST-LIST:END -->
 
 
-## Connect with me:
+## Contact Me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Medium]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="My Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="My Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][Medium]
+[<img align="left" alt="My LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [website]: https://codeSTACKr.com
