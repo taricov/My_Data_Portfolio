@@ -51,7 +51,7 @@ Keywords: [Classfication, ML, Decision Tree, Logistic Regression, Gradiant Boost
 
 # Data-Based Web Apps:
 
-1.[ STREAMLIT: Stock Historical Data](https://github.com/taricov/Stock_Web_App)
+1.[ STREAMLIT: Stock Historical Data](https://github.com/taricov/Stock_Web_App)<br/>
 2.[ R Shiny: ]()
 3.[ STREAMLIT: NFL Rushing Web App](https://github.com/taricov/NFL_web-app)
 4.[ DASH: Stock Closing Price Timeline](https://github.com/taricov/DASH_Interactive_Stocks_Web_App)
@@ -60,6 +60,7 @@ Keywords: [Classfication, ML, Decision Tree, Logistic Regression, Gradiant Boost
 # Others:
 
 1.[ Tableau: Retail Analysis - Walmart](https://public.tableau.com/app/profile/taric.ov/viz/RetailAnalysis-Walmart/RetailAnalysiswithWalmartData)
+
 .[ SQL: Joining Tables From The Indian League Dataset](https://www.kaggle.com/taricov/sql-snippets-tabular-data-joining-value-mapping)
 .[ SQL: Bike Share Dataset](https://www.kaggle.com/taricov/sql-snippets-bike-share-dataset)
 .[ PowerBI: Financial Model/Senario Analysis](https://app.powerbi.com/groups/me/reports/cc818e03-c473-4d97-994c-be7c8ac778a6?ctid=0b6fac1e-c1ac-4214-bd79-eb9321e7de42&pbi_source=linkShare)
