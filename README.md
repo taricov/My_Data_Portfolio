@@ -29,13 +29,13 @@
 
 # Machine Learning Projects:
 
-### 1.[ Python: Titanic Survivors Classifier](https://github.com/taricov/titanic_survivors_classificier)
+### 1.[ Python: Titanic Survivors Classifier](https://github.com/taricov/Python_Titanic_Survivors_Classificier)
    - Keywords: [Classfication, ML, Decision Tree, Logistic Regression, Gradiant Boost, MLP, SVC]()
    - *Used libs: Pandas, Numpy, Sklearn, Seaborn, Statsmodels*
 
 > It's more than common to find this infamous dataset about Titanic disaster in an ML portofolios, but I wanted this project to be more than basic, studying classification models and understanding how to tweak their vital hyperparameters, however I had a further big question to answer. **How likely could other factors determine someone's death other than the main threat to your life?** 'cause all Titanic passengers were on the same ship, exposed to the same situation, likely to all die or all survive. the interesting part is that some of them died and some survived, so the life-threatening situation wasn't enough to determine one's disteny, there must be other determinants that need investigation to understand some other questions that could seem crazy or even ironic, such as 'Could your family size carry your death verdict?!!' or maybe 'Could there be a relation between your dialy protien intake percentage to your survival percentage?!', most ironically "Could nature destined your inevitable death when you first born as a male/female?!" and other.
 
-![](https://github.com/taricov/titanic_survivors_classificier/blob/main/titanic.png)
+![](https://github.com/taricov/Python_Titanic_Survivors_Classificier/blob/main/titanic.png)
 
 ### 3.[ Python: Insurance dataset](https://github.com/taricov/titanic_survivors_classificier)
    - Keywords: [Classfication, ML, Decision Tree, Logistic Regression, Gradiant Boost, MLP, SVC]()
@@ -46,15 +46,15 @@
    - *Used libs: Pandas, Numpy, Seaborn, Matplotlib*
 
 > That project was early on my journey and it's about various small tasks to find out about a business from its sales dataset. The main driver here was the profitability, while my main question was: "What's the main revenue pipeline?" while I had some other sub-questions to examine certain business aspects like Shipment mode, Geographical impact, and profitability across different departments. <br/><br/><br/>
-![A Pie Chart!](./imgs/pie.png)
+![A Pie Chart!](https://github.com/taricov/Python_Sales_Analysis/blob/main/Sales_pie.png)
 
 # Data-Based Web Apps:
 
-- [ STREAMLIT: Stock Historical Data](https://github.com/taricov/Stock_Web_App)<br/>
+- [ STREAMLIT: Stock Historical Data](https://github.com/taricov/Python_Stock_Web_App)<br/>
 - [ R Shiny: ]()<br/>
-- [ STREAMLIT: NFL Rushing Web App](https://github.com/taricov/NFL_web-app)<br/>
+- [ STREAMLIT: NFL Rushing Web App](https://github.com/taricov/Python_NFL_Data_App)<br/>
 - [ DASH: Stock Closing Price Timeline](https://github.com/taricov/DASH_Interactive_Stocks_Web_App)<br/>
-- [ STREAMLIT: Cryptocurrency Web App](https://github.com/taricov/Cryptocurrency_App)<br/>
+- [ STREAMLIT: Cryptocurrency Web App](https://github.com/taricov/Python_Cryptocurrency_App)<br/>
 
 # Others:
 
