@@ -37,9 +37,11 @@
 
 ![](https://github.com/taricov/Python_Titanic_Survivors_Classificier/blob/main/titanic.png)
 
-[comment]: #(### 3.[ Python: Insurance dataset](https://github.com/taricov/titanic_survivors_classificier)
+<!-- 
+### 3.[ Python: Insurance dataset](https://github.com/taricov/titanic_survivors_classificier)"
    - Keywords: [Classfication, ML, Decision Tree, Logistic Regression, Gradiant Boost, MLP, SVC]()
-   - *Used libs: Pandas, Numpy, Sklearn, Seaborn, Statsmodels*)
+   - *Used libs: Pandas, Numpy, Sklearn, Seaborn, Statsmodels*) 
+-->
 
 ### 2.[ Python: Historical Sales Data Analysis](https://www.kaggle.com/taricov/python-sales-sheet-analysis)
    - Keywords: [Data Analysis, EDA, Data Visualization, Business Intelligence]()
