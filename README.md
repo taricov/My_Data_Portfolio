@@ -57,6 +57,7 @@
 # Others:
 
 - [ Tableau: Sales Volume Dashboard](https://github.com/taricov/Tableau_Sales_Dashboard)<br/>
+- [ JS: Weather App](https://taricov.github.io/JS_Weather_App/)
 - [ SQL: Joining Tables From The Indian League Dataset](https://www.kaggle.com/taricov/sql-snippets-tabular-data-joining-value-mapping)<br/>
 - [ Tableau: Retail Analysis - Walmart](https://github.com/taricov/Tableau_Retail_Analysis_Dashboard)<br/>
 - [ Tableau: Bank Customer Analysis Dashboard](https://github.com/taricov/Tableau_Bank_Customer_Analysis_dashboard)<br/>
