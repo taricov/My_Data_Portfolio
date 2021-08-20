@@ -3,9 +3,9 @@
 - I am an entry-level ML engineer coming from data analysis and finance background to join the community of the ML.
   - 🔭 I am a content creator on [Medium][Medium]
   - 🌱 I’m currently learning everything 🤣
-  - 👯 I’m looking to be the best of me
-  - 🥅 2021 Goals Are To: 5 travels, 20 books, speak Russian
-  - ⚡ Fun facts: I love Art and like to draw, listen to music and play guitar
+  - 🥅 2021 Goals Are: 5 travels, 20 books, and speak Russian
+  - 👯 Facts: I love Art and like to play Chess, listen to music and play guitar
+  - ⚡ Fun fact: 
 
 # Languages & Skills:
 - [Python](https://github.com/taricov?tab=repositories)         
