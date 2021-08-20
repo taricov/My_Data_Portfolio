@@ -35,7 +35,7 @@ I am an entry-level ML engineer coming from data analysis and finance background
 
 > It's more than common to find this infamous dataset about Titanic disaster in an ML portofolios, but I wanted this project to be more than basic, studying classification models and understanding how to tweak their vital hyperparameters, however I had a further big question to answer. **How likely could other factors determine someone's death other than the main threat to your life?** 'cause all Titanic passengers were on the same ship, exposed to the same situation, likely to all die or all survive. the interesting part is that some of them died and some survived, so the life-threatening situation wasn't enough to determine one's disteny, there must be other determinants that need investigation to understand some other questions that could seem crazy or even ironic, such as 'Could your family size carry your death verdict?!!' or maybe 'Could there be a relation between your dialy protien intake percentage to your survival percentage?!', most ironically "Could nature destined your inevitable death when you first born as a male/female?!" and other.
 
-![bar charts](titanic.png)
+![bar charts](imgs/titanic.png)
 
 <!-- 
 ### 3.[ Python: Insurance dataset](https://github.com/taricov/titanic_survivors_classificier)"
@@ -49,7 +49,7 @@ I am an entry-level ML engineer coming from data analysis and finance background
 
 > That project was early on my journey and it's about various small tasks to find out about a business from its sales dataset. The main driver here was the profitability, while my main question was: "What's the main revenue pipeline?" while I had some other sub-questions to examine certain business aspects like Shipment mode, Geographical impact, and profitability across different departments. <br/>
 
-![A Pie Chart](Sales_pie.png)
+![A Pie Chart](imgs/Sales_pie.png)
 
 # Data-Based Web Apps:
 
