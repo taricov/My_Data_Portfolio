@@ -5,7 +5,7 @@ I am an entry-level ML engineer coming from data analysis and finance background
   - 🌱 I’m currently learning everything 🤣
   - 🥅 2021 Goals Are: 5 travels, 20 books, and speak Russian
   - 👯 Facts: I love Art and like to play Chess, listen to music and play guitar
-  [comment]: # (- ⚡ Fun fact:) 
+  <!-- - ⚡ Fun fact: --> 
 
 # Languages & Skills:
 - [Python](https://github.com/taricov?tab=repositories)         
@@ -48,12 +48,12 @@ I am an entry-level ML engineer coming from data analysis and finance background
    - *Used libs: Pandas, Numpy, Seaborn, Matplotlib*
 
 > That project was early on my journey and it's about various small tasks to find out about a business from its sales dataset. The main driver here was the profitability, while my main question was: "What's the main revenue pipeline?" while I had some other sub-questions to examine certain business aspects like Shipment mode, Geographical impact, and profitability across different departments. <br/><br/><br/>
-![A Pie Chart!](https://github.com/taricov/Python_Sales_Analysis/blob/main/Sales_pie.png)
+![A Pie Chart!](Python_Sales_Analysis/blob/main/Sales_pie.png)
 
 # Data-Based Web Apps:
 
-- [ STREAMLIT: Stock Historical Data](https://github.com/taricov/Python_Stock_Web_App)<!--<br/> 
-- [ R Shiny: ]()<br/>  -->
+- [ STREAMLIT: Stock Historical Data](https://github.com/taricov/Python_Stock_Web_App)
+<!--<br/> - [ R Shiny: ]()<br/> -->
 - [ STREAMLIT: NFL Rushing Web App](https://github.com/taricov/Python_NFL_Data_App)<br/>
 - [ DASH: Stock Closing Price Timeline](https://github.com/taricov/DASH_Interactive_Stocks_Web_App)<br/>
 - [ STREAMLIT: Cryptocurrency Web App](https://github.com/taricov/Python_Cryptocurrency_App)<br/>
