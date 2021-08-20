@@ -33,7 +33,9 @@
    - Keywords: [Classfication, ML, Decision Tree, Logistic Regression, Gradiant Boost, MLP, SVC]()
    - *Used libs: Pandas, Numpy, Sklearn, Seaborn, Statsmodels*
 
-> It's more than common to find this infamous dataset about Titanic disaster in an ML portofolios, but I wanted this project to be more than basic, studying classification models and understanding how to tweak their vital hyperparameters, however I had a further big question to answer. **How likely could other factors determine someone's death other than the main threat to your life?** 'cause all Titanic passengers were on the same ship, exposed to the same situation, likely to all die or all survive. the interesting part is that some of them died and some survived, so the life-threatening situation wasn't enough to determine one's disteny, there must be other determinants that need investigation to understand some other questions that could seem crazy or even ironic, such as 'Could your family size carry your death verdict?!!' or maybe 'Could there be a relation between your dialy protien intake percentage to your survival percentage?!', most ironically "Could nature destined your inevitable death when you first born as a male/female?!" and others.
+> It's more than common to find this infamous dataset about Titanic disaster in an ML portofolios, but I wanted this project to be more than basic, studying classification models and understanding how to tweak their vital hyperparameters, however I had a further big question to answer. **How likely could other factors determine someone's death other than the main threat to your life?** 'cause all Titanic passengers were on the same ship, exposed to the same situation, likely to all die or all survive. the interesting part is that some of them died and some survived, so the life-threatening situation wasn't enough to determine one's disteny, there must be other determinants that need investigation to understand some other questions that could seem crazy or even ironic, such as 'Could your family size carry your death verdict?!!' or maybe 'Could there be a relation between your dialy protien intake percentage to your survival percentage?!', most ironically "Could nature destined your inevitable death when you first born as a male/female?!" and other.
+
+![](https://github.com/taricov/titanic_survivors_classificier/blob/main/titanic.png)
 
 ### 3.[ Python: Insurance dataset](https://github.com/taricov/titanic_survivors_classificier)
    - Keywords: [Classfication, ML, Decision Tree, Logistic Regression, Gradiant Boost, MLP, SVC]()
@@ -68,7 +70,7 @@
 ## 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MAYA .. How being Advanced CAN’T help your product being Accepted!](https://medium.com/geekculture/maya-how-being-advanced-cant-help-your-product-being-accepted-8bcc7ad97da2?source=rss-35f5c1b349a7------2)
+- [MAYA .. How being Advanced CAN’T help your product being Accepted!](https://medium.com/geekculture/maya-how-being-advanced-cant-help-your-product-being-accepted-8bcc7ad97da2?source=rss-35f5c1b349a7------2)
 - [Attrition! Why should you track it with a dashboard that STUNS?!](https://medium.com/geekculture/attrition-why-should-you-track-it-with-a-dashboard-that-stuns-2e50663f0e21?source=rss-35f5c1b349a7------2)
 - [How a BIG company would store its data?](https://medium.com/geekculture/how-a-big-company-would-store-its-data-3cca5009562e?source=rss-35f5c1b349a7------2)
 - [USD vs EGP — Stats on currency exchange over 17 years](https://taric-ov.medium.com/usd-vs-egp-stats-on-currency-exchange-over-17-years-5dd10517961d?source=rss-35f5c1b349a7------2)
