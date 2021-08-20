@@ -1,7 +1,7 @@
 # About:
 
 - I am an entry-level ML engineer coming from data analysis and finance background to join the community of the ML.
-  - 🔭 I am a content creator on [Medium](Medium)
+  - 🔭 I am a content creator on [Medium][Medium]
   - 🌱 I’m currently learning everything 🤣
   - 👯 I’m looking to be the best of me
   - 🥅 2021 Goals Are To: 5 travels, 20 books, speak Russian
