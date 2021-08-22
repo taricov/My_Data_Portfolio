@@ -33,7 +33,7 @@
    - Keywords: [Classfication, ML, Decision Tree, Logistic Regression, Gradiant Boost, MLP, SVC]()
    - *Used libs: Pandas, Numpy, Sklearn, Seaborn, Statsmodels*
 
-> It's more than common to find this popular dataset about the Titanic disaster in ML portfolios, but I wanted this project to be more than basic, studying classification models and understanding how to tweak their vital hyperparameters, however, I had a further big question to answer. **How likely could other factors determine someone's death other than the main threat to your life?** 'cause all Titanic passengers were on the same ship, exposed to the same situation, likely to all die or all survive. the interesting part is that some of them died and some survived, so the life-threatening situation wasn't enough to determine one's destiny, there must be other determinants that need investigation to understand some other questions that could seem crazy or even ironic, such as 'Could your family size carry your death verdict?!!' or maybe 'Could there be a relation between your daily protein intake percentage to your survival percentage?!', most ironically "Could nature destined your inevitable death when you first born as a male/female?!" and other. <br/>
+> It's more than common to find this popular dataset about the Titanic disaster in ML portfolios, but I wanted this project to be more than basic, studying classification models and understanding how to tweak their vital hyperparameters, however, I had a further big question to answer. **How likely could other factors determine someone's death other than the main threat to their life?** 'cause all Titanic passengers were on the same ship, exposed to the same situation, likely to all die or all survive. the interesting part is that some of them died and some survived, so the life-threatening situation wasn't enough to determine one's destiny, there must be other determinants that need investigation to understand some other questions that could seem crazy or even ironic, such as 'Could your family size carry your death verdict?!!' or maybe 'Could there be a relation between your daily protein intake percentage to your survival liklihood?!', most ironically "Could nature destined your inevitable death when you first born as a male/female?!", etc. <br/>
 
 ![bar charts](imgs/titanic.png)
 
@@ -42,7 +42,7 @@
   - Keywords: [Classfication, ML, Decision Tree, Logistic Regression, Gradiant Boost, MLP, SVC]()
   - *Used libs: Pandas, Numpy, Sklearn, Seaborn, plotly*
 
-> This project is about insurance dataset, exploring the insured and how often they could claim charges for their insurance policies, especially those how dangering their lives or at least threatening their well-being in some ways, maybe a habit of smoking, an activity of having sex (how many children do they have?), or maybe where they live or their age is a major factor in encouraging them to do so.
+> This project is about insurance dataset, exploring the insured and how often they could claim charges for their insurance policies, especially those how dangering their lives or at least threatening their well-being in some ways, maybe a habit of smoking, a level of frequency of having sex (how many children do they have?), or even where they live or how old they are- is a major factor in encouraging them to do so.
 > It's very interesting to explore and have fun with such a case and to learn more about human behavior when it comes to claiming what could be righteously theirs.<br/>
 
 ![](imgs/insurance.png)
@@ -52,7 +52,7 @@
    - Keywords: [Data Analysis, EDA, Data Visualization, Business Intelligence]()
    - *Used libs: Pandas, Numpy, Seaborn, Matplotlib*
 
-> That project was early on my journey and it's about various small tasks to find out about a business from its sales dataset. The main driver here was the profitability, while my main question was: "What's the main revenue pipeline?" while I had some other sub-questions to examine certain business aspects like Shipment mode, Geographical impact, and profitability across different departments. <br/>
+> That project was early on my journey and it's about various small tasks to explore the business based on its sales dataset. The main driver here was the profitability, while my main question was: "What's the main revenue pipeline?". I had some other sub-questions to examine certain business aspects like Shipment mode, Geographical impact on sales, and profitability across different departments. <br/>
 
 ![A Pie Chart](imgs/Sales_pie.png)
 
@@ -79,7 +79,7 @@
 ## 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MAYA .. How being Advanced CAN’T help your product being Accepted!](https://medium.com/geekculture/maya-how-being-advanced-cant-help-your-product-being-accepted-8bcc7ad97da2?source=rss-35f5c1b349a7------2)
+- [MAYA .. How being Advanced CAN’T help your product being Accepted!](https://medium.com/geekculture/maya-how-being-advanced-cant-help-your-product-being-accepted-8bcc7ad97da2?source=rss-35f5c1b349a7------2)
 - [Attrition! Why should you track it with a dashboard that STUNS?!](https://medium.com/geekculture/attrition-why-should-you-track-it-with-a-dashboard-that-stuns-2e50663f0e21?source=rss-35f5c1b349a7------2)
 - [How a BIG company would store its data?](https://medium.com/geekculture/how-a-big-company-would-store-its-data-3cca5009562e?source=rss-35f5c1b349a7------2)
 - [USD vs EGP — Stats on currency exchange over 17 years](https://taric-ov.medium.com/usd-vs-egp-stats-on-currency-exchange-over-17-years-5dd10517961d?source=rss-35f5c1b349a7------2)
