@@ -6,6 +6,7 @@
   - 🥅 2021 Goals Are: 5 travels, 20 books, and speak Russian
   - 👯 Facts: I love Art and like to play Chess, listen to music and play guitar
   <!-- - ⚡ Fun fact: --> 
+  
 # Languages & Skills:
 - [Python](https://github.com/taricov?tab=repositories)         
 - [R]()
