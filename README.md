@@ -1,6 +1,6 @@
 # About:
 
-#### I am an entry-level Machine Learning Associate, shifting from Data Analysis with a Finance background. 
+### I am a Data Scientist, been working with data for 2 years, and as time goes, my passion grows, always pursuing challenges. 
   - 🔭 I am a content creator on [Medium][Medium]
   - 🌱 I’m currently learning everything 🤣
   - 🥅 2021 Goals Are: 5 travels, 20 books, and speak Russian
@@ -79,7 +79,7 @@
 ## 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MAYA .. How being Advanced CAN’T help your product being Accepted!](https://medium.com/geekculture/maya-how-being-advanced-cant-help-your-product-being-accepted-8bcc7ad97da2?source=rss-35f5c1b349a7------2)
+- [MAYA .. How being Advanced CAN’T help your product being Accepted!](https://medium.com/geekculture/maya-how-being-advanced-cant-help-your-product-being-accepted-8bcc7ad97da2?source=rss-35f5c1b349a7------2)
 - [Attrition! Why should you track it with a dashboard that STUNS?!](https://medium.com/geekculture/attrition-why-should-you-track-it-with-a-dashboard-that-stuns-2e50663f0e21?source=rss-35f5c1b349a7------2)
 - [How a BIG company would store its data?](https://medium.com/geekculture/how-a-big-company-would-store-its-data-3cca5009562e?source=rss-35f5c1b349a7------2)
 - [USD vs EGP — Stats on currency exchange over 17 years](https://taric-ov.medium.com/usd-vs-egp-stats-on-currency-exchange-over-17-years-5dd10517961d?source=rss-35f5c1b349a7------2)
