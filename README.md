@@ -12,7 +12,7 @@
 - [R]()
 - [SPSS]()
 - [SQL](https://www.kaggle.com/taricov/sql-snippets-bike-share-dataset)
-- [Java](https://github.com/taricov?tab=repositories)
+<!-- - [Java](https://github.com/taricov?tab=repositories) -->
 - [JavaScript](https://github.com/taricov?tab=repositories)
 - [CSS/Sass](https://codepen.io/taricov/pens/public?cursor=ZD0xJm89MCZwPTEmdj01MDM4MDQ5Mg==)
 - [Observable]()
