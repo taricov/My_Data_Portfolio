@@ -75,8 +75,9 @@
 
 # Others:
 
+- [ R: Scraping and visualizing data using](https://github.com/taricov/R_scraping_viz_data)<br/>
 - [ Tableau: Sales Volume Dashboard](https://github.com/taricov/Tableau_Sales_Dashboard)<br/>
-- [ JS: Weather App](https://taricov.github.io/JS_Weather_App/)
+- [ JS: Weather App](https://taricov.github.io/JS_Weather_App/)<br/>
 - [ Tableau: Attrition Dashboard](https://github.com/taricov/Tableau_Attrition_Dashboard)
 - [ SQL: Joining Tables From The Indian League Dataset](https://www.kaggle.com/taricov/sql-snippets-tabular-data-joining-value-mapping)<br/>
 - [ Tableau: Retail Analysis - Walmart](https://github.com/taricov/Tableau_Retail_Analysis_Dashboard)<br/>
