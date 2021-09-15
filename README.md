@@ -47,7 +47,16 @@
 ![](imgs/insurance.png)
 
 
-### 3.[ Python: Historical Sales Data Analysis](https://www.kaggle.com/taricov/python-sales-sheet-analysis)
+### 3.[ R: SVM classifier using R and Tableau](https://github.com/taricov/R_SVM_Classifier)
+   - Keywords: [R, Data Analysis, EDA, Data Visualization, Business Intelligence, Machine]()
+   - *Used libs: Pandas, Numpy, Seaborn, Matplotlib*
+
+> That project was early on my journey and it's about various small tasks to explore the business based on its sales dataset. The main driver here was the profitability, while my main question was: "What's the main revenue pipeline?". I had some other sub-questions to examine certain business aspects like Shipment mode, Geographical impact on sales, and profitability across different departments. <br/>
+
+![A Pie Chart](imgs/Sales_pie.png)
+
+
+### 4.[ Python: Historical Sales Data Analysis](https://www.kaggle.com/taricov/python-sales-sheet-analysis)
    - Keywords: [Data Analysis, EDA, Data Visualization, Business Intelligence]()
    - *Used libs: Pandas, Numpy, Seaborn, Matplotlib*
 
