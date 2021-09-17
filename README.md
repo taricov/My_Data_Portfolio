@@ -107,4 +107,4 @@
 [website]: https://myweb.com
 [Medium]: https://taric-ov.medium.com/
 [instagram]: https://www.instagram.com/taric.ov/
-[linkedin]: https://www.linkedin.com/in/taricov/
+[linkedin]: https://www.linkedin.com/in/taricov/ 
