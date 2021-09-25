@@ -9,15 +9,15 @@
   
 # Languages & Skills:
 - [Python](https://github.com/taricov?tab=repositories)         
-- [R]()
+- [R](https://github.com/taricov/R_Projects)
 - [SPSS]()
 - [SQL](https://www.kaggle.com/taricov/sql-snippets-bike-share-dataset)
 - [JavaScript](https://github.com/taricov?tab=repositories)
 - [CSS/Scss](https://codepen.io/taricov/pens/public?cursor=ZD0xJm89MCZwPTEmdj01MDM4MDQ5Mg==)
 - [Observable]()
-- [Tableau](https://medium.com/geekculture/attrition-why-should-you-track-it-with-a-dashboard-that-stuns-2e50663f0e21?source=user_profile---------1----------------------------)
+- [Tableau](https://github.com/taricov/Tableau_Projects)
 - [PowerBI](https://app.powerbi.com/groups/me/reports/cc818e03-c473-4d97-994c-be7c8ac778a6?ctid=0b6fac1e-c1ac-4214-bd79-eb9321e7de42&pbi_source=linkShare)
-- [Advanced Excel]()
+- [Excel]()
   <!-- - [Java](https://github.com/taricov?tab=repositories) -->
  
 # Certificates:
