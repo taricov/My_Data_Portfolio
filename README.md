@@ -37,7 +37,7 @@
 ![bar charts](imgs/titanic.png)
 
 
-### 2.[ Python: Insurance dataset classifier](https://www.kaggle.com/taricov/Python_Insurance_Predictive_ML)
+### 2.[ Python: Insurance dataset classifier](https://github.com/taricov/Python_Insurance_Predictive_Regression)
   - Keywords: [Classfication, ML, Decision Tree, Logistic Regression, Gradiant Boost, MLP, SVC]()
   - *Used libs: Pandas, Numpy, Sklearn, Seaborn, plotly*
 
