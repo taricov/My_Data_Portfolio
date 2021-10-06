@@ -10,7 +10,7 @@
 # Languages & Skills:
 - [Python](https://github.com/taricov?tab=repositories)         
 - [R](https://github.com/taricov/R_Projects)
-- [SPSS]()
+- [SPSS](That will be linked soon)
 - [SQL](https://www.kaggle.com/taricov/sql-snippets-bike-share-dataset)
 - [JavaScript](https://github.com/taricov?tab=repositories)
 - [CSS/Scss](https://codepen.io/taricov/pens/public?cursor=ZD0xJm89MCZwPTEmdj01MDM4MDQ5Mg==)
