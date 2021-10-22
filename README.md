@@ -91,8 +91,8 @@
 - [MAYA .. How being Advanced CAN’T help your product being Accepted!](https://medium.com/geekculture/maya-how-being-advanced-cant-help-your-product-being-accepted-8bcc7ad97da2?source=rss-35f5c1b349a7------2)
 - [Attrition! Why should you track it with a dashboard that STUNS?!](https://medium.com/geekculture/attrition-why-should-you-track-it-with-a-dashboard-that-stuns-2e50663f0e21?source=rss-35f5c1b349a7------2)
 - [How a BIG company would store its data?](https://medium.com/geekculture/how-a-big-company-would-store-its-data-3cca5009562e?source=rss-35f5c1b349a7------2)
-- [BizCase (2): When Uber exposed ethics](https://medium.com/geekculture/bizcase-2-when-uber-exposed-ethics-b075dcdb7922?source=rss-35f5c1b349a7------2)
-- [BizCase (1) — Piling money by telling stories](https://taric-ov.medium.com/bizcase-1-piling-money-by-telling-stories-db16069c029d?source=rss-35f5c1b349a7------2)
+- [BizCase (1): Does Uber Hack into Your Life?](https://medium.com/geekculture/bizcase-2-when-uber-exposed-ethics-b075dcdb7922?source=rss-35f5c1b349a7------2)
+- [Marketing .. How you’re always manipulated!](https://taric-ov.medium.com/marketing-how-youre-always-manipulated-b49a258dce45?source=rss-35f5c1b349a7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
