@@ -2,7 +2,7 @@
 
 ### I am a Data Scientist, been working with data for 2 years and as time goes, my passion grows, always pursuing challenges. 
   - 🔭 I am a content creator on [Medium][Medium]
-  - 🌱 I’m currently learning everything 
+  - 🌱 I’m currently learning everything
   - 🥅 2021 Goals Are: 5 travels, 20 books, and speak Russian
   - ⚡ Fun fact: I worked in over 10 different fields and wrote 2 books 🤣
   - 👯 Art Blogger, Chess player, Classical music listener, and Yo toco la guitarra
