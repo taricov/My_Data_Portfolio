@@ -56,6 +56,7 @@
 ![](imgs/SVM.gif)
 
 
+
 ### 4.[ Python: Historical Sales Data Analysis](https://www.kaggle.com/taricov/python-sales-sheet-analysis)
    - Keywords: [Data Analysis, EDA, Data Visualization, Business Intelligence]()
    - *Used libs: Pandas, Numpy, Seaborn, Matplotlib*
